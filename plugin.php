@@ -1,12 +1,10 @@
 <?php
 /*
 Plugin Name: We're Open
-Plugin URI: http://www.wpexplorer.com/create-widget-plugin-wordpress/
+Plugin URI: http://www.bogdanteleaba.com
 Description: This plugin adds a custom widget.
-Version: 1.0
-Author: AJ Clarke
-Author URI: http://www.wpexplorer.com/create-widget-plugin-wordpress/
-License: GPL2
+Author: Bogdan Teleaba
+Author URI: http://www.bogdanteleaba.com
 */
 
 // The widget class
